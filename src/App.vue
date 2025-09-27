@@ -15,9 +15,9 @@
           <span class="white-space-nowrap">Dwarkesh ice-creame</span>
         </h1>
         <p class="col-12 my-0 py-0 text-base sm:text-lg md:text-2xl">
-          <span class="white-space-nowrap">Spin to winn your</span>&nbsp;<span
+          <span class="white-space-nowrap">Spin to win</span>&nbsp;<span
             class="white-space-nowrap"
-            >lucky item</span
+            >delicious ice cream!</span
           >
         </p>
       </div>

@@ -18,9 +18,9 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', '/img/icons/ios/180.png'],
       manifest: {
-        name: 'Unfair Spin Wheel',
-        short_name: 'Unfair Spin Wheel',
-        description: 'The world is unfair, and so is our spin wheel.',
+        name: 'Dwarkesh ice-cream',
+        short_name: 'Dwarkesh ice-cream',
+        description: 'Spin to win delicious ice cream prizes from Dwarkesh!',
         theme_color: '#212f56',
         icons: [
           {
@@ -484,10 +484,6 @@ export default defineConfig({
       targets: [
         {
           src: 'README.md',
-          dest: ''
-        },
-        {
-          src: 'LICENSE',
           dest: ''
         }
       ]
